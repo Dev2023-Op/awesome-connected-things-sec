@@ -281,7 +281,6 @@
 #### Fundamentals
 
 - [Awesome Bluetooth Security](https://github.com/engn33r/awesome-bluetooth-security)
-- [BLE-NullBlr: Step by Step Guide to BLE Understanding and Exploiting](https://github.com/V33RU/BLE-NullBlr)
 - [Traffic Engineering in a Bluetooth Piconet](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A833159)
 - [BLE Characteristics: A Beginner's Tutorial](https://devzone.nordicsemi.com/nordic/short-range-guides/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial)
 - [Intro to Bluetooth Low Energy (PDF)](https://daskalakispiros.com/files/Ebooks/Intro+to+Bluetooth+Low+Energy+v1.1.pdf)
@@ -868,7 +867,7 @@
 #### Tools - Software
 
 - [CoAP NSE (Nmap)](https://nmap.org/nsedoc/lib/coap.html)
-- [Copper - Firefox CoAP Plugin](https://github.com/mkovatsc/Copper)
+- [Copper4Cr - CoAP User-Agent for Chrome](https://github.com/mkovatsc/Copper4Cr)
 - [libcoap CLI Tools](https://github.com/obgm/libcoap)
 - [Scapy CoAP Plugin](https://github.com/secdev/scapy)
 - [Eclipse Californium (Java)](https://www.eclipse.org/californium/)
